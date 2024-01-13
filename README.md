@@ -64,6 +64,8 @@ Specify the build commands, such as installing dependencies and running tests. C
 
 Create AWS system manager and configure parameters that needs to be used in spec file.
 
+IAM user should have SSM full access
+
 Set up the artifacts configuration to generate the build output required for deployment.
 
 Review the build project settings and click on the "Create build project" button to create your AWS CodeBuild project.
