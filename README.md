@@ -62,6 +62,8 @@ Configure the build environment, such as the operating system, runtime, and comp
 
 Specify the build commands, such as installing dependencies and running tests. Customize this based on your application's requirements.
 
+Create AWS system manager and configure parameters that needs to be used in spec file.
+
 Set up the artifacts configuration to generate the build output required for deployment.
 
 Review the build project settings and click on the "Create build project" button to create your AWS CodeBuild project.
